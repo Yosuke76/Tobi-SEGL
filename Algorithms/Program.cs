@@ -19,7 +19,7 @@ for (int i = 0; i < cards.Length; i++)
 
 
 // Binary Search => 0(log(n))
-//
+//int FindCardLocationBinarySearch(int[] cards, int query)
 
 
 // Linear Search => 0(n)
